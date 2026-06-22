@@ -18,16 +18,7 @@ Double Major
 - Big Data Analysis
 - Statistical Modeling
 - NLP
-
----
-
-## Education
-
-**Gachon University**
-- Big Data Management (Major)
-- Applied Statistics (Double Major)
-- Medical Industry Management (Double Major)
-
+- 
 ---
 
 ## Skills
