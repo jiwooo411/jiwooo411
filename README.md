@@ -69,4 +69,4 @@ Double Major
 
 ## Contact
 
-📧 Jiwooo411@gachon.ac.kr
+📧 jiwooo411@naver.com
