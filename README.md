@@ -1,13 +1,13 @@
 # Jiwoo Kim
 
-Healthcare Data Analytics | NLP | Statistical Modeling
+📊 Healthcare Data Analytics | NLP | Statistical Modeling
 
-School of Financial Big Data in Gachon University
+🎓 School of Financial Big Data in Gachon University
 
-Major
+📚 Major
 - Big Data Management
 
-Double Major
+📚 Double Major
 - Applied Statistics
 - Medical Industry Management
 
