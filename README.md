@@ -56,7 +56,7 @@
 
 ## Certifications
 
-ADsP · SQLD · 한국실용글쓰기 2급
+ADsP · SQLD · 한국실용글쓰기 준2급
 
 ---
 
