@@ -29,8 +29,7 @@
 - KRX, ECOS, DART 데이터를 활용한 데이터 수집 및 분석
 - 회귀분석을 활용한 산업별 금리 민감도 분석
 
-연구실 프로필
-
+연구실 프로필: 
 https://findslab.github.io/site/members/detail/kjw1-undergrad
 
 ---
